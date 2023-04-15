@@ -31,3 +31,7 @@ Desafios: El sistema me envio mensajes de instalación de git
 2. Validar que exista el directorio
 3. Recorrer todos los archivos 
 4. Almacenarlos en una lista
+
+Desafios
+1. Encontrar las funciones adecuadas para capturar los archivos
+2. Debugear el programa
