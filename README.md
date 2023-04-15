@@ -2,6 +2,11 @@
 
 Repositorio público del proyecto final del Bootcamp de Python de código facilito
 
+## Version de Python
+
+    3.10.9
+
+
 ## Requerimientos
 
 El programa debe cumplir con los siguientes requerimientos:
@@ -20,3 +25,9 @@ El programa debe cumplir con los siguientes requerimientos:
 3. Crear menú del sistema
 
 Desafios: El sistema me envio mensajes de instalación de git
+
+### Día 2
+1. Capturar el directorio
+2. Validar que exista el directorio
+3. Recorrer todos los archivos 
+4. Almacenarlos en una lista
