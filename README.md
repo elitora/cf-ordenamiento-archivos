@@ -70,7 +70,7 @@ Desafios
 Desafios 
 1. Crear un diccionario para agrupar los archivos en un directorio
 
-## Dia 4
+### Dia 4
 1. Generar el ordenamiento de los archivos
 2. Crear carpetas
 3. Mover los archivos
