@@ -35,3 +35,17 @@ Desafios: El sistema me envio mensajes de instalación de git
 Desafios
 1. Encontrar las funciones adecuadas para capturar los archivos
 2. Debugear el programa
+
+### Día 3
+1. Encontrar extensiones de archivos
+2. Crear una lista con los plurales de las extensiones
+3. Crear la simulación de ordenamiento
+
+Desafios 
+1. Crear un diccionario para agrupar los archivos en un directorio
+
+## Dia 4
+1. Generar el ordenamiento de los archivos
+2. Crear carpetas
+3. Mover los archivos
+
