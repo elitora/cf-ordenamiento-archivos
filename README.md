@@ -17,6 +17,32 @@ El programa debe cumplir con los siguientes requerimientos:
 4. El nombre de las carpetas deberá ser en plural. (pdfs - pngs - txts)
 5. El programa será capaz de clasificar los archivos en nuevas carpetas
 
+## Funcionamiento 
+
+Se le mostrará en la pantalla al usuario el siguiente menú:
+
+```bash
+Este es el menú de ordenamiento de archivos:
+1. Introduce el directorio a ordenar
+2. Simular ordenamiento
+3. Ejecutar ordenamiento
+4. Salir del programa
+Elije una opcion:
+```
+
+Con la opcion 1
+Es necesario que el usuario introduzca un  directorio válido y que realmente contenga archivos para poder ser ordenado.
+
+Con la opcion 2
+Simular ordenamiento le permite ver al usuario lo que haria el ordenamiento de archivos
+
+Con la opcion 3
+Se ejecuta el ordenamiento y los archivos son agrupados en las carpetas correspondientes
+
+Con la opcion 4
+El programa termina
+
+
 ## Proceso de desarrollo
 
 ### Día 1 
@@ -49,3 +75,9 @@ Desafios
 2. Crear carpetas
 3. Mover los archivos
 
+Desafios
+1. La libreria shutil y entender de mejor manera los diccionarios y listas
+
+## Agradecimientos
+
+A mis maestros por dar buenas clases
